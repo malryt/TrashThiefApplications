@@ -1,5 +1,7 @@
 # TrashThiefApplications
 
+# The following was submitted for a Software Engineering Project at Florida State University.
+
 DOWNLOAD INSTRUCTIONS:
 
 1) Click the green 'Code' button in the upper right hand corner of this repository
